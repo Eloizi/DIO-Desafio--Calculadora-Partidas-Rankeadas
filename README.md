@@ -2,8 +2,9 @@
     <span> Desafio Funções - Calculadora de Partidas Rankeadas </span>
 </h1>
 
-Repositório criado para armazenar o projeto Desafio Herói, referente às aulas de JS ministradas pelo [Felipe Aguiar](https://github.com/felipeAguiarCode), no curso 'Dominando Estruturas de Controle', promovido pela [Digital Innovation One](https://www.dio.me/). Este curso faz parte do Bootcamp Potência Tech iFood - Programação do Zero.
+Repositório criado para armazenar o projeto Desafio Funções - Calculadora de Partidas Rankeadas, referente às aulas de JS ministradas pelo [Felipe Aguiar](https://github.com/felipeAguiarCode), no curso 'Trabalhando com Funções', promovido pela [Digital Innovation One](https://www.dio.me/). Este curso faz parte do Bootcamp Potência Tech iFood - Programação do Zero.
 <br><br>
+
 
 
 ## Ferramentas
